@@ -1,0 +1,12 @@
+# Never commit source archives to git history. They are published as
+# release assets instead (see SETUP.md). A ~1 GB blob in git history is
+# permanent and cannot be removed without rewriting every clone.
+*.tar.xz
+*.tar.gz
+*.zip
+*.7z
+*.exe
+*.msi
+
+# Local scratch
+/mirror/
