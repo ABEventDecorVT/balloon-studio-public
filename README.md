@@ -2,7 +2,7 @@
 
 Maintained by **AB Event Decor LLC** (Essex, Vermont, United States).
 
-This repository exists for two narrow purposes:
+This repository exists for three narrow purposes:
 
 1. **Update manifest.** A small public JSON file that installed copies of
    The Ultimate Balloon Studio can read to learn whether a newer version has
@@ -12,6 +12,10 @@ This repository exists for two narrow purposes:
    Balloon Studio links against, published as release assets so that
    recipients of the binary have network access to the corresponding source.
    See the [Releases](../../releases) page.
+3. **Public legal notices.** The End User License Agreement and Privacy Notice
+   for pre-purchase review (for example from the Polar product page). See
+   [`legal/END_USER_LICENSE_AGREEMENT.txt`](legal/END_USER_LICENSE_AGREEMENT.txt)
+   and [`legal/PRIVACY_NOTICE.txt`](legal/PRIVACY_NOTICE.txt).
 
 This repository does **not** contain the source code of The Ultimate Balloon
 Studio itself, which is proprietary, and it does **not** host the installer.

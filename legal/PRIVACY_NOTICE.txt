@@ -1,0 +1,84 @@
+Privacy Notice
+The Ultimate Balloon Studio  ·  AB Event Decor LLC
+Version 1.0. Effective [insert date of first release].
+This notice explains what information The Ultimate Balloon Studio (the “Software”) handles, what it sends over the internet and what it does not, who receives it, and what your choices are. It covers the desktop Software. It does not cover the checkout process on the store where You bought the Software, which is operated by Polar and governed by Polar’s own privacy policy.
+The Software is published by AB Event Decor LLC, 45 Clover Drive, Essex, VT 05452, United States. For anything in this notice, write to support@abeventdecor.com.
+In short
+·  Your designs, portfolio files and imported images stay on your computer. They are never sent to us.
+·  The Software contacts the internet for two things only: checking that your license key is valid, and checking whether a newer version has been released.
+·  We do not sell personal information, do not run advertising or behavioral analytics, do not track your location, and do not use your information or your designs to train large language models or other AI models.
+·  You can use the Software without an account. There is nothing to sign up for.
+1.  Information that stays on your device
+The Software stores the following locally, on your own computer, and does not transmit it to us or to anyone else:
+·  your saved designs, vault and portfolio files, and project files;
+·  images You import, and images and build plans You export;
+·  your application preferences and settings; and
+·  your license key, stored so that You do not have to re-enter it.
+Because these files live on your device, You are responsible for backing them up. If You uninstall the Software, remove your user data folder to delete them.
+2.  License activation and validation
+When You enter your license key, and periodically afterwards, the Software contacts Polar, the platform that issued your key, to confirm the license is valid and to record which devices are using it. The following is sent:
+What is sent
+Why
+Your license key
+To identify the license being validated.
+A product or organization identifier for the Software
+So the licensing platform knows which product the key belongs to.
+The version of the Software You are running
+So we can support the version You actually have.
+An activation identifier issued by the licensing platform
+To distinguish one activated device from another so that the two-device limit can be applied.
+A device label
+So that You can tell your devices apart when managing them. This is a name You choose, or a random value generated on your computer. It is not a hardware serial number and it is not derived from your hardware.
+Your IP address
+Not sent by the Software as data, but visible to the licensing platform because every internet request carries it. It is used for routing and abuse prevention.
+The Software does not send your name, email address, computer name, user name, file names, file contents, hardware inventory or location as part of license validation.
+If the licensing service cannot be reached, the Software keeps working for a grace period rather than locking You out. Your license does not expire, and if we ever stop operating license validation we will publish a build or method that lets a licensed copy keep running without it.
+3.  Update checks
+The Software can check whether a newer version has been released. It does this by downloading a small public file that lists the current version number and a link to the download page. That file is hosted on GitHub.
+The check is a request for a public file. The Software does not send your license key, your device label, an activation identifier or any account information with it. As with any internet request, the host receives your IP address and the standard request metadata that your operating system and network send. The comparison between the published version and your installed version is performed on your own computer.
+If You would rather the Software did not check for updates, You can turn the check off in the application settings and check the product page manually instead.
+4.  Who receives information
+Recipient
+What they receive
+Their role
+Polar Software
+License key, product identifier, application version, activation identifier, device label, IP address
+Licensing platform and merchant of record for your purchase. Governed by Polar’s privacy policy at polar.sh.
+GitHub
+IP address and standard request metadata when the Software downloads the public version file
+Host of the public version file. No information about You or your license is sent to GitHub by the Software.
+AB Event Decor LLC
+What You send us directly, such as a support email, and license records we can see in the licensing platform
+Publisher of the Software and the party responsible for it.
+We do not share information with anyone else, and we do not sell personal information or disclose it for cross-context behavioral advertising. We may disclose information if we are legally required to, or to establish or defend a legal claim, and we will limit any such disclosure to what is required.
+5.  Why we handle this information
+We handle the information described above in order to confirm that a license is valid, to apply the device limit that comes with a license, to tell You when an update is available, to prevent abuse of license keys, and to provide support when You ask for it. We do not use it for any other purpose.
+If You are in the European Economic Area or the United Kingdom, our legal bases are: performance of our contract with You, for license validation and device management; and our legitimate interests in preventing license abuse, in informing You of updates and in maintaining the security of the Software, for the remainder. Where we rely on legitimate interests, we have considered the limited nature of the data and the fact that no profiling, advertising or tracking is involved.
+6.  How long it is kept
+License and activation records are kept for as long as the license exists, and for a reasonable period afterwards so that we can resolve support, refund or abuse questions. Support emails are kept for as long as needed to deal with the matter and for our own records afterwards. Server logs held by our providers are kept for the short periods set out in their own policies.
+We do not maintain analytics records, usage histories or profiles, because the Software does not produce them.
+7.  What the Software does not do
+·  It does not send your designs, portfolio files, exported images or imported images anywhere.
+·  It does not collect precise or approximate location data.
+·  It does not include advertising, advertising identifiers or third-party trackers.
+·  It does not run behavioral analytics, telemetry or crash reporting.
+·  It does not read files outside the folders You open or save to.
+·  It does not fingerprint your hardware.
+·  It does not use your personal data or your designs to train large language models or other artificial intelligence models, and we do not sell or license your data to anyone who does.
+If any of this changes in a future version, we will update this notice, describe the change in the release notes, and where the law requires it we will ask for your consent before the change takes effect for You.
+8.  Your choices and rights
+You may ask us for a copy of the license information we hold about You, ask us to correct it, or ask us to delete it. Write to support@abeventdecor.com. Deleting license information will deactivate the license, so we will explain the consequence before we act on such a request.
+You can manage or deactivate your devices through the licensing platform’s customer portal, or ask us to do it for You. You can turn off the update check in the application settings.
+If You are in the European Economic Area or the United Kingdom, You also have the rights to access, rectification, erasure, restriction of processing, data portability and objection, and the right to lodge a complaint with your national data protection authority. In the United Kingdom that is the Information Commissioner’s Office. We will respond within the period the law allows.
+9.  Children
+The Software is a professional and hobbyist design tool intended for adults. It is not directed to children, and we do not knowingly collect personal information from anyone under 13, or under 16 in jurisdictions where that is the applicable age. If You believe a child has provided information to us, write to us and we will delete it.
+10.  Security
+The Software communicates over encrypted connections. License information is held by our licensing platform under its own security arrangements. We keep the number of people who can see license records to the minimum, and we do not hold payment card details at any point, because payment is handled by the platform acting as merchant of record.
+No system is completely secure. If a breach affecting your information occurs, we will notify You and the relevant authorities where the law requires it.
+11.  Changes to this notice
+If we change this notice we will publish the new version on the product page and include it with the next release of the Software, and we will change the date below. Where a change is material we will describe it in the release notes rather than leave You to find it.
+12.  How to contact us
+AB Event Decor LLC
+45 Clover Drive, Essex, VT 05452, United States
+support@abeventdecor.com
+Last updated: 9/21/2026.
