@@ -1,6 +1,6 @@
 End User License Agreement
 The Ultimate Balloon Studio  ·  AB Event Decor LLC
-Version 1.0. Effective [insert date of first release].
+Version 1.0. Effective October 1, 2026.
 IMPORTANT — PLEASE READ THIS AGREEMENT BEFORE INSTALLING OR USING THE SOFTWARE.
 This End User License Agreement (this “Agreement”) is a contract between you, either individually or on behalf of the entity for which you install or use the Software (“You”), and AB Event Decor LLC, a Vermont limited liability company, together with its owners, officers, employees and contractors (“Licensor,” “we,” “us” or “our”). It governs your installation and use of The Ultimate Balloon Studio, including its documentation and any updates we make available (together, the “Software”).
 You accept this Agreement by clicking “I Agree” during installation, or by installing, copying or using the Software. If You do not agree, do not install or use the Software, and You may request a refund under Section 16.
@@ -134,4 +134,4 @@ AB Event Decor LLC
 45 Clover Drive, Essex, VT 05452, United States
 support@abeventdecor.com  ·  www.abeventdecor.com
  BY INSTALLING OR USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS AGREEMENT, UNDERSTAND IT, AND AGREE TO BE BOUND BY IT.
-Last updated: 9/15/2026.
+Last updated: 9/28/2026.

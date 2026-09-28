@@ -1,6 +1,6 @@
 Privacy Notice
 The Ultimate Balloon Studio  ·  AB Event Decor LLC
-Version 1.0. Effective [insert date of first release].
+Version 1.0. Effective October 1, 2026.
 This notice explains what information The Ultimate Balloon Studio (the “Software”) handles, what it sends over the internet and what it does not, who receives it, and what your choices are. It covers the desktop Software. It does not cover the checkout process on the store where You bought the Software, which is operated by Polar and governed by Polar’s own privacy policy.
 The Software is published by AB Event Decor LLC, 45 Clover Drive, Essex, VT 05452, United States. For anything in this notice, write to support@abeventdecor.com.
 In short
@@ -81,4 +81,4 @@ If we change this notice we will publish the new version on the product page and
 AB Event Decor LLC
 45 Clover Drive, Essex, VT 05452, United States
 support@abeventdecor.com
-Last updated: 9/21/2026.
+Last updated: 9/28/2026.
