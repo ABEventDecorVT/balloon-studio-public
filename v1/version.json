@@ -1,8 +1,8 @@
 {
-  "latest_version": "1.1.1",
+  "latest_version": "1.1.2",
   "minimum_version": "1.0.0",
   "release_date": "2026-10-02",
   "download_page": "https://polar.sh/ab-event-decor-llc/portal",
   "release_notes_url": "https://polar.sh/ab-event-decor-llc/portal",
-  "notes": "Update download opens your Polar customer portal (purchase email + one-time code), not checkout. Includes 1.1.0 chrome photo finishes and build-plan fixes."
+  "notes": "Organic: painting a grouped balloon paints the whole group (including hidden cluster members) for complete supply counts. Polar customer portal for updates."
 }
