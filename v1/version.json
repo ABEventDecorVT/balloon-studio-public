@@ -1,8 +1,8 @@
 ﻿{
-  "latest_version": "1.4.0",
+  "latest_version": "1.4.1",
   "minimum_version": "1.0.0",
   "release_date": "2026-10-14",
   "download_page": "https://polar.sh/ab-event-decor-llc/portal",
   "release_notes_url": "https://polar.sh/ab-event-decor-llc/portal",
-  "notes": "Link sculpture tool, HQ Design Studio capture, User Import Sample background removal, Arch Rotate, and My Palette 1-9 shortcuts."
+  "notes": "Column spiral gap continuity for 4- and 5-balloon Standard/Reverse (including Rotate), plus tighter Reflex stamp fill at balloon edges."
 }
