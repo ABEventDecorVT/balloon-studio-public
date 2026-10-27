@@ -1,8 +1,8 @@
 ﻿{
-  "latest_version": "1.6.1",
+  "latest_version": "1.6.2",
   "minimum_version": "1.0.0",
-  "release_date": "2026-10-23",
+  "release_date": "2026-10-27",
   "download_page": "https://polar.sh/ab-event-decor-llc/portal",
   "release_notes_url": "https://polar.sh/ab-event-decor-llc/portal",
-  "notes": "Build plan size labels on columns, arches, and String of Pearls bases are readable without crowding the balloons."
+  "notes": "Mockup straighten and toolbar, column blueprint editing, String of Pearls lighting, and design-file thumbnails in File Explorer."
 }
