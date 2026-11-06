@@ -1,8 +1,8 @@
 ﻿{
-  "latest_version": "1.6.3",
+  "latest_version": "1.7.0",
   "minimum_version": "1.0.0",
-  "release_date": "2026-10-29",
+  "release_date": "2026-11-06",
   "download_page": "https://polar.sh/ab-event-decor-llc/portal",
   "release_notes_url": "https://polar.sh/ab-event-decor-llc/portal",
-  "notes": "Mockup rotation stays on each design, dark balloons stay separate on exports, and column Reset Completely turns the topper off."
+  "notes": "Flat Pack builds wing-and-mini arches, columns, and custom chains, with an exploded build plan."
 }
